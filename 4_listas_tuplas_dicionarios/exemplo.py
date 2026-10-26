@@ -152,3 +152,7 @@ aluno = {
 }
 
 
+#O que é uma Função?
+#Uma Função é um bloco de código para realizar uma determinada tarefa.
+#Ela permite organizar a reutilizar o código.
+
